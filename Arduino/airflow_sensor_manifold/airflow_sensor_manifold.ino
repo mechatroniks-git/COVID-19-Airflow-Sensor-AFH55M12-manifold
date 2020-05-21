@@ -1,4 +1,4 @@
-/* test
+/*
  *
  * https://github.com/hydronics2/COVID-19-Airflow-Sensor-AFH55M12
  *
@@ -14,6 +14,7 @@
 
 */
 
+#include <Arduino.h>
 #include <Wire.h>
 #include <SPI.h>
 #include <Adafruit_Sensor.h> // https://github.com/adafruit/Adafruit_Sensor
